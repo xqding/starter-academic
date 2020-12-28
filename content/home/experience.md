@@ -22,24 +22,39 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
+  - title: "Research Assistant"
+    company: "Lu Lab at Tsinghua University"
+    company_url: 'http://bioinfo.life.tsinghua.edu.cn'
+    location: Beijing
+    date_start: '2011-09-01'
+    date_end: '2013-08-31'
     description: |2-
-        Responsibilities include:
+        Collaboratively developed a method to improve RNA secondary structure prediction by incorporating experiment data into free energy model using machine learning methods.    
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Graduate Student
+    company: Brooks Lab at the University of Michigan
+    company_url: 'https://brooks.chem.lsa.umich.edu'
+    location: Ann Arbor, MI
+    date_start: '2013-09-01'
+    date_end: '2018-09-30'
+    description: Developed both physics-based and machine learning algorithms for drug discovery and protein engineering.
+
+  - title: Postdoctoral Fellow
+    company: Freedman Lab at the University of Chicago
+    company_url: 'https://monkeylogic.uchicago.edu'
+    location: Chicago, IL
+    date_start: '2018-10-01'
+    date_end: '2019-05-31'
+    description: Developed methods for learning deep generative models using annealed importance sampling.
+
+  - title: Postdoctoral Associate
+    company: Zhang Lab at the Massachusetts Institute of Technology
+    company_url: 'https://zhanggroup.mit.edu'
+    location: Cambridge, MA
+    date_start: '2019-06-01'
+    date_end: ''
+    description:
+
 ---
+
+

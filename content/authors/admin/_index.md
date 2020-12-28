@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xinqiang Ding
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Massachusetts Institute of Technology
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Chromsome Structures and Dynamics
+- Variational Inference & Probabilistic Deep Generative Models
+- Protein Evolution & Fitness Landscape & Protein Design
+- Protein-ligand Docking & Free Energy Calculation
+- Molecular Dynamcis & MCMC & Enhanced Sampling
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Bioinformatics
+    institution: University of Michigan
+    year: 2018
+  - course: BSc in Pharmaceutical Science and Applied Mathematics
+    institution: Peking University
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,20 +42,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "mailto:xqding@umich.edu"  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=_Xon_PMAAAAJ&hl=en  
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
+  link: https://github.com/xqding  
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/
-
+  link: https://twitter.com/xinqiang_ding
+  
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -67,11 +64,22 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! Welcome to my homepage!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a postdoctoral associate in the [Zhang Lab](https://zhanggroup.mit.edu) at MIT.
+My current research of insterest includes
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+* Understanding chromosome strucures and dynamics using both data-driven statistical modeling and physics-based modeling;
+* Applying deep learning methods, especially deep generative models, to problems in computational chemistry and biophysics,
+  such as free energy calculation, enhanced sampling and extracting useful information from  molecular dynamics simulations.
+* Connecting deep generative models with non-equilibirum statistical mechanics.
+
+During my PhD study, I was fortunate to work with [Prof. Charles L. Brooks III](https://brooks.chem.lsa.umich.edu).
+The focuses of my PhD research include developing theorectical/computational methods for protein-ligand docking and free energy calculation and applying
+deep generative models to study protein evolution, fitness landscape and stablity.
+
+I love collaborating with both theoretical and experimental researchers, so feel free to contact me if you have a project for which my expertise might be helpful.
+

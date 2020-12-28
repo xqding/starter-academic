@@ -3,20 +3,22 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 
+active: true
+
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how much pages you would like to display (0 = all pages)
-  count: 5
+  count: 10
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
