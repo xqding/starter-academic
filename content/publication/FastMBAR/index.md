@@ -49,8 +49,15 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/xqding/Papers/blob/master/FastMBAR_JCTC.pdf
-url_code: https://github.com/xqding/FastMBAR
+links:
+- name: PDF
+  url: https://github.com/xqding/Papers/blob/master/FastMBAR_JCTC.pdf
+
+- name: Code
+  url: https://github.com/xqding/FastMBAR
+
+#url_pdf: https://github.com/xqding/Papers/blob/master/FastMBAR_JCTC.pdf
+#url_code: https://github.com/xqding/FastMBAR
 url_dataset:
 url_poster:
 url_project:

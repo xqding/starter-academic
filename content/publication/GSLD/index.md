@@ -43,7 +43,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/xqding/Papers/blob/master/GSLD_JCTC.pdf
+links:
+- name: PDF
+  url: https://github.com/xqding/Papers/blob/master/GSLD_JCTC.pdf
+
+
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

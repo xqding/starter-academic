@@ -40,8 +40,15 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://github.com/xqding/Papers/blob/master/PEVAE.pdf"
-url_code: "https://github.com/xqding/PEVAE"
+links:
+- name: PDF
+  url: https://github.com/xqding/Papers/blob/master/PEVAE.pdf
+
+- name: Code
+  url: https://github.com/xqding/PEVAE
+
+url_pdf: 
+url_code:
 url_dataset:
 url_poster:
 url_project:

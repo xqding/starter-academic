@@ -47,7 +47,12 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/xqding/Papers/blob/master/RME_NAR.pdf
+links:
+- name: PDF
+  url: https://github.com/xqding/Papers/blob/master/RME_NAR.pdf
+  
+
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

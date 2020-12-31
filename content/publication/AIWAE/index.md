@@ -39,10 +39,20 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_35.pdf
+links:
+- name: PDF
+  url: https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_35.pdf
+
+- name: Code
+  url: https://github.com/xqding/AIWAE
+
+- name: Poster
+  url: https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_35_poster.pdf
+
+url_pdf: 
 url_code:
 url_dataset:
-url_poster: https://ml4physicalsciences.github.io/2020/files/NeurIPS_ML4PS_2020_35_poster.pdf
+url_poster: 
 url_project:
 url_slides:
 url_source:
