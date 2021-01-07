@@ -70,12 +70,12 @@ highlight_name: true
 Hello! Welcome to my homepage!
 
 I am a postdoctoral associate in the [Zhang Lab](https://zhanggroup.mit.edu) at MIT.
-My current research of insterest includes
+My current research of interest includes
 
 * Understanding chromosome strucures and dynamics using both data-driven statistical modeling and physics-based modeling;
 * Applying deep learning methods, especially deep generative models, to problems in computational chemistry and biophysics,
-  such as free energy calculation, enhanced sampling and extracting useful information from  molecular dynamics simulations.
-* Connecting deep generative models with non-equilibirum statistical mechanics.
+  such as free energy calculation, enhanced sampling, and extracting useful information from  molecular dynamics simulations.
+* Connecting deep generative models with non-equilibrium statistical mechanics.
 
 During my PhD study, I was fortunate to work with [Prof. Charles L. Brooks III](https://brooks.chem.lsa.umich.edu).
 The focuses of my PhD research include developing theorectical/computational methods for protein-ligand docking and free energy calculation and applying
