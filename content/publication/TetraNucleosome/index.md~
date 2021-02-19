@@ -1,24 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CDOCKER and λ-dynamics for Prospective Prediction in D3R Grand Challenge 2"
+title: "Stability and folding pathways of tetra-nucleosome from six-dimensional free energy surface"
 authors:
 - admin
-- Ryan L. Hayes
-- Jonah Z. Vilseck
-- Murchtricia K. Charles
-- Charles L. Brooks
+- Xingcheng Lin
+- Bin Zhang
 
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-
-date: 2018-01-01
-doi: "10.1007/s10822-017-0050-5"
+date: 2021-02-17	
+doi: "10.1038/s41467-021-21377-z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2018-01-01
+publishDate: 2021-02-17
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,8 +20,8 @@ publishDate: 2018-01-01
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Computer-Aided Molecular Design"
-publication_short: "_J. Comput. Aided Mol. Des._"
+publication: "_Nature Communication_"
+publication_short: "_Nat. Commun_"
 
 abstract: ""
 
@@ -49,7 +42,10 @@ featured: false
 
 links:
 - name: PDF
-  url: https://github.com/xqding/Papers/blob/master/D3R.pdf
+  url: https://github.com/xqding/Papers/blob/master/TetraNucleosome.pdf
+
+# - name: Code
+#   url: https://github.com/xqding/PEVAE
 
 url_pdf: 
 url_code:
