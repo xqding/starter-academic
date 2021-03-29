@@ -17,10 +17,10 @@ authors:
 # - "Equal contribution"
 
 date: 2021-02-25T13:08:25-05:00
-#doi: "10.1021/acs.jctc.8b01010"
+doi: "10.1021/acs.jpclett.1c00189"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-02-24T13:08:25-05:00
+publishDate: 2021-03-15T00:08:25-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,7 +30,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "The Journal of Physical Chemistry Letters"
-publication_short: "_J. Phys. Chem. Lett (in press)_"
+publication_short: "_J. Phys. Chem. Lett_"
 
 abstract: ""
 
@@ -50,20 +50,20 @@ featured: false
 #   icon: twitter
 
 links:
-#- name: PDF
-#  url: https://github.com/xqding/Papers/blob/master/FastMBAR_JCTC.pdf
+- name: PDF
+  url: https://github.com/xqding/Papers/blob/master/DeepBAR.pdf
 
-#- name: Code
-#  url: https://github.com/xqding/FastMBAR
+- name: Video
+  url: https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.1c00189/suppl_file/jz1c00189_liveslides.mp4
 
-#url_pdf: https://github.com/xqding/Papers/blob/master/FastMBAR_JCTC.pdf
+#url_pdf: https://github.com/xqding/Papers/blob/master/DeepBAR.pdf
 #url_code: https://github.com/xqding/FastMBAR
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+#url_video: https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.1c00189/suppl_file/jz1c00189_liveslides.mp4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
