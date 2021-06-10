@@ -56,14 +56,17 @@ links:
 - name: Video
   url: https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.1c00189/suppl_file/jz1c00189_liveslides.mp4
 
-#url_pdf: https://github.com/xqding/Papers/blob/master/DeepBAR.pdf
-#url_code: https://github.com/xqding/FastMBAR
+- name: News
+  url: https://news.mit.edu/2021/drug-discovery-binding-affinity-0315
+
+url_pdf:
+url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-#url_video: https://pubs.acs.org/doi/suppl/10.1021/acs.jpclett.1c00189/suppl_file/jz1c00189_liveslides.mp4
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

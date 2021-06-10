@@ -1,26 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "DeepBAR: A Fast and Exact Method for Binding Free Energy Computation"
+title: "Generalizing the Discrete Gibbs Sampler-Based λ-Dynamics Approach for Multisite Sampling of Many Ligands"
 
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
-# and it will be replaced with their full name and linked to their profile.
 authors:
+- Jonah Z. Vilseck
 - admin
-- Bin Zhang
+- Ryan L. Hayes
+- Charles L. Brooks III
 
-
-# Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-
-date: 2021-02-25T13:08:25-05:00
-#doi: "10.1021/acs.jctc.8b01010"
+#authors: ["Xinqiang Ding", "Jonah Z. Vilseck", "Ryan L. Hayes", "Charles L. Brooks III"]
+date: 2021-06-05T13:16:05-05:00
+doi: "10.1021/acs.jctc.1c00176"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-02-24T13:08:25-05:00
+publishDate: 2021-06-08T13:16:05-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +23,8 @@ publishDate: 2021-02-24T13:08:25-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Journal of Physical Chemistry Letters"
-publication_short: "_J. Phys. Chem. Lett._"
+publication: "Journal of Chemical Theory and Computation"
+publication_short: "_J. Chem. Theory Comput_"
 
 abstract: ""
 
@@ -50,14 +44,12 @@ featured: false
 #   icon: twitter
 
 links:
-#- name: PDF
-#  url: https://github.com/xqding/Papers/blob/master/FastMBAR_JCTC.pdf
+- name: PDF
+  url: https://github.com/xqding/Papers/blob/master/d_GSLD_JCTC.pdf
 
-#- name: Code
-#  url: https://github.com/xqding/FastMBAR
 
-#url_pdf: https://github.com/xqding/Papers/blob/master/FastMBAR_JCTC.pdf
-#url_code: https://github.com/xqding/FastMBAR
+url_pdf:
+url_code:
 url_dataset:
 url_poster:
 url_project:
