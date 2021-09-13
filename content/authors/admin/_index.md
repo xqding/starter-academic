@@ -18,11 +18,11 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Chromsome Structures and Dynamics
-- Variational Inference & Probabilistic Deep Generative Models
-- Protein Evolution & Fitness Landscape & Protein Design
 - Protein-ligand Docking & Free Energy Calculation
-- Molecular Dynamcis & MCMC & Enhanced Sampling
+- Chromsome Structures and Dynamics
+- Protein Evolution & Fitness Landscape & Protein Design
+- Molecular Dynamcis & MCMC & Enhanced Sampling & Machine Learning
+- Variational Inference & Probabilistic Deep Generative Models
 
 # Education to show in About widget
 education:
@@ -72,9 +72,10 @@ Hello! Welcome to my homepage!
 I am a postdoctoral associate in the [Zhang Lab](https://zhanggroup.mit.edu) at MIT.
 My current research of interest includes
 
-* Understanding chromosome strucures and dynamics using both data-driven statistical modeling and physics-based modeling;
 * Applying deep learning methods, especially deep generative models, to problems in computational chemistry and biophysics,
-  such as free energy calculation, enhanced sampling, and extracting useful information from  molecular dynamics simulations.
+  such as free energy calculation, enhanced sampling, coarse-graining, and extracting useful information from  molecular dynamics simulations.
+* Understanding chromosome strucures and dynamics using both data-driven statistical modeling and physics-based modeling;
+* Understanding intrisically disordered proteins
 * Connecting deep generative models with non-equilibrium statistical mechanics.
 
 During my PhD study, I was fortunate to work with [Prof. Charles L. Brooks III](https://brooks.chem.lsa.umich.edu).
