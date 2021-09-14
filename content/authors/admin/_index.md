@@ -75,7 +75,7 @@ My current research of interest includes
 * Applying deep learning methods, especially deep generative models, to problems in computational chemistry and biophysics,
   such as free energy calculation, enhanced sampling, coarse-graining, and extracting useful information from  molecular dynamics simulations.
 * Understanding chromosome strucures and dynamics using both data-driven statistical modeling and physics-based modeling;
-* Understanding intrisically disordered proteins
+* Understanding intrinsically disordered proteins.
 * Connecting deep generative models with non-equilibrium statistical mechanics.
 
 During my PhD study, I was fortunate to work with [Prof. Charles L. Brooks III](https://brooks.chem.lsa.umich.edu).
